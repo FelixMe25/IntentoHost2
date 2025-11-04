@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/IntentoHost2/static/css/main.e6c13ad2.css",
+    "main.js": "/IntentoHost2/static/js/main.5820b712.js",
+    "static/js/453.8ab44547.chunk.js": "/IntentoHost2/static/js/453.8ab44547.chunk.js",
+    "static/media/imagenRegistro.png": "/IntentoHost2/static/media/imagenRegistro.28efb54868547fda19a2.png",
+    "static/media/dosUsers.png": "/IntentoHost2/static/media/dosUsers.d90db42bddfa666619e1.png",
+    "static/media/imagenUsuario.png": "/IntentoHost2/static/media/imagenUsuario.f1656ed44b820cdcc1b0.png",
+    "static/media/Sumatoria.png": "/IntentoHost2/static/media/Sumatoria.4805f44f032bd20e1abd.png",
+    "static/media/logoTec.png": "/IntentoHost2/static/media/logoTec.e32acf2e70e8068e171a.png",
+    "static/media/logoTecAzul.png": "/IntentoHost2/static/media/logoTecAzul.77fb4c6298673bce27c8.png",
+    "index.html": "/IntentoHost2/index.html",
+    "main.e6c13ad2.css.map": "/IntentoHost2/static/css/main.e6c13ad2.css.map",
+    "main.5820b712.js.map": "/IntentoHost2/static/js/main.5820b712.js.map",
+    "453.8ab44547.chunk.js.map": "/IntentoHost2/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5820b712.js"
+  ]
+}
